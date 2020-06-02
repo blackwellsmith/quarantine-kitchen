@@ -6,7 +6,7 @@ const Episodes = () => {
         <div className="App">
             <header className="App-header">
                 <h4>Episode: 1</h4>
-                <p>Wilt that Kale with Onions Garlic and Tomato</p>
+                <p>Wilt that Kale with Onions, Garlic and Tomato</p>
                 <div><audio src={EpisodeOne} preload="auto" controls/></div>
                 
             </header>
